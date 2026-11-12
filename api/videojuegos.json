@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "titulo": "Hollow Knight",
+    "descripcion": "Metroidvania de exploración en un reino subterráneo de insectos, con combate exigente y un mapa enorme por descubrir.",
+    "imagen": "https://picsum.photos/seed/juego1/600/400",
+    "genero": "Metroidvania",
+    "plataforma": "PC, Switch, PS4, Xbox One",
+    "desarrollador": "Team Cherry",
+    "anio": 2017,
+    "calificacion": 9.0
+  },
+  {
+    "id": 2,
+    "titulo": "The Legend of Zelda: Breath of the Wild",
+    "descripcion": "Aventura de mundo abierto en la que Link explora libremente el reino de Hyrule para derrotar a Ganon.",
+    "imagen": "https://picsum.photos/seed/juego2/600/400",
+    "genero": "Aventura",
+    "plataforma": "Switch, Wii U",
+    "desarrollador": "Nintendo",
+    "anio": 2017,
+    "calificacion": 9.7
+  },
+  {
+    "id": 3,
+    "titulo": "The Witcher 3: Wild Hunt",
+    "descripcion": "RPG de mundo abierto donde Geralt de Rivia busca a su hija adoptiva en un mundo devastado por la guerra.",
+    "imagen": "https://picsum.photos/seed/juego3/600/400",
+    "genero": "RPG",
+    "plataforma": "PC, PS4, Xbox One, Switch",
+    "desarrollador": "CD Projekt Red",
+    "anio": 2015,
+    "calificacion": 9.3
+  },
+  {
+    "id": 4,
+    "titulo": "Minecraft",
+    "descripcion": "Juego de construcción y supervivencia en un mundo de bloques generado de forma procedural.",
+    "imagen": "https://picsum.photos/seed/juego4/600/400",
+    "genero": "Sandbox",
+    "plataforma": "Multiplataforma",
+    "desarrollador": "Mojang Studios",
+    "anio": 2011,
+    "calificacion": 9.3
+  },
+  {
+    "id": 5,
+    "titulo": "Celeste",
+    "descripcion": "Plataformas de precisión sobre Madeline y su ascenso a la montaña Celeste.",
+    "imagen": "https://picsum.photos/seed/juego5/600/400",
+    "genero": "Plataformas",
+    "plataforma": "PC, Switch, PS4, Xbox One",
+    "desarrollador": "Maddy Makes Games",
+    "anio": 2018,
+    "calificacion": 9.2
+  },
+  {
+    "id": 6,
+    "titulo": "Red Dead Redemption 2",
+    "descripcion": "Aventura de mundo abierto ambientada en el ocaso del viejo oeste, protagonizada por el forajido Arthur Morgan.",
+    "imagen": "https://picsum.photos/seed/juego6/600/400",
+    "genero": "Acción-aventura",
+    "plataforma": "PC, PS4, Xbox One",
+    "desarrollador": "Rockstar Games",
+    "anio": 2018,
+    "calificacion": 9.7
+  },
+  {
+    "id": 7,
+    "titulo": "Stardew Valley",
+    "descripcion": "Simulador de granja donde cultivas, crías animales y convives con los habitantes de un pueblo.",
+    "imagen": "https://picsum.photos/seed/juego7/600/400",
+    "genero": "Simulación",
+    "plataforma": "Multiplataforma",
+    "desarrollador": "ConcernedApe",
+    "anio": 2016,
+    "calificacion": 8.9
+  },
+  {
+    "id": 8,
+    "titulo": "Dark Souls",
+    "descripcion": "RPG de acción conocido por su dificultad, su mundo interconectado y su narrativa ambiental.",
+    "imagen": "https://picsum.photos/seed/juego8/600/400",
+    "genero": "RPG de acción",
+    "plataforma": "PC, PS3, Xbox 360",
+    "desarrollador": "FromSoftware",
+    "anio": 2011,
+    "calificacion": 8.9
+  },
+  {
+    "id": 9,
+    "titulo": "Portal 2",
+    "descripcion": "Juego de puzles en primera persona que se resuelven con un dispositivo que crea portales.",
+    "imagen": "https://picsum.photos/seed/juego9/600/400",
+    "genero": "Puzles",
+    "plataforma": "PC, PS3, Xbox 360",
+    "desarrollador": "Valve",
+    "anio": 2011,
+    "calificacion": 9.5
+  },
+  {
+    "id": 10,
+    "titulo": "God of War",
+    "descripcion": "Kratos y su hijo Atreus viajan por los reinos de la mitología nórdica para cumplir una promesa.",
+    "imagen": "https://picsum.photos/seed/juego10/600/400",
+    "genero": "Acción-aventura",
+    "plataforma": "PS4, PC",
+    "desarrollador": "Santa Monica Studio",
+    "anio": 2018,
+    "calificacion": 9.4
+  },
+  {
+    "id": 11,
+    "titulo": "Super Mario Odyssey",
+    "descripcion": "Plataformas 3D en el que Mario recorre distintos reinos con la ayuda de su gorra Cappy.",
+    "imagen": "https://picsum.photos/seed/juego11/600/400",
+    "genero": "Plataformas",
+    "plataforma": "Switch",
+    "desarrollador": "Nintendo",
+    "anio": 2017,
+    "calificacion": 9.7
+  },
+  {
+    "id": 12,
+    "titulo": "Hades",
+    "descripcion": "Roguelike de acción donde Zagreo intenta escapar del inframundo griego.",
+    "imagen": "https://picsum.photos/seed/juego12/600/400",
+    "genero": "Roguelike",
+    "plataforma": "PC, Switch, PS4, PS5, Xbox",
+    "desarrollador": "Supergiant Games",
+    "anio": 2020,
+    "calificacion": 9.3
+  },
+  {
+    "id": 13,
+    "titulo": "Elden Ring",
+    "descripcion": "RPG de acción de mundo abierto ambientado en las Tierras Intermedias.",
+    "imagen": "https://picsum.photos/seed/juego13/600/400",
+    "genero": "RPG de acción",
+    "plataforma": "PC, PS4, PS5, Xbox",
+    "desarrollador": "FromSoftware",
+    "anio": 2022,
+    "calificacion": 9.6
+  },
+  {
+    "id": 14,
+    "titulo": "Terraria",
+    "descripcion": "Aventura 2D de exploración, construcción y combate en mundos generados de forma procedural.",
+    "imagen": "https://picsum.photos/seed/juego14/600/400",
+    "genero": "Sandbox",
+    "plataforma": "Multiplataforma",
+    "desarrollador": "Re-Logic",
+    "anio": 2011,
+    "calificacion": 8.3
+  },
+  {
+    "id": 15,
+    "titulo": "Undertale",
+    "descripcion": "RPG en el que puedes resolver los combates sin hacer daño a ningún enemigo.",
+    "imagen": "https://picsum.photos/seed/juego15/600/400",
+    "genero": "RPG",
+    "plataforma": "PC, Switch, PS4, Xbox One",
+    "desarrollador": "Toby Fox",
+    "anio": 2015,
+    "calificacion": 9.2
+  }
+]
